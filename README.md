@@ -1,4 +1,8 @@
-<h2 align="center">Supporting</h2>
+# FlyMeToTheGO
+
+Opinionated REST API Framework built in GO.
+
+## Supporting
 
 This is an MIT-licensed open source project with its ongoing development made possible entirely by the support of a few awesome backers. If you'd like to join them, please consider.
 ## Documentation
